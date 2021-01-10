@@ -1,0 +1,41 @@
+.cocktail-app_result-item {
+  display: flex;
+}
+
+.cocktail-app_result-item_content {
+  width: 75%;
+  flex: 1 auto;
+  margin-left: 8px;
+}
+
+.cocktail-app_result-item_media {
+  flex: 1 auto;
+  width: 25%;
+  max-width: 150px;
+  min-height: 100px;
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+  background-position: right 0;
+}
+
+.cocktail-app_result-item_media img {
+  width: 100%;
+}
+
+.cocktail-app_result-item_content_pills {
+  margin: 10px 10px 0 0 !important;
+}
+
+.cocktail-app_result-item_drink-info {
+  margin-top: 12px !important;
+}
+
+@media screen and (max-width: 767px) {
+  .cocktail-app_result-item_media {
+    width: 25%;
+    height: auto;
+  }
+  .cocktail-app_result-item_content_pills {
+    margin: 10px 10px 0 0 !important;
+  }
+}

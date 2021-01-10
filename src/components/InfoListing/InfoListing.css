@@ -1,0 +1,22 @@
+.cocktail-app_display-list {
+    padding: 0;
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 4;
+    column-gap: 20px;
+    list-style: none;
+    margin: 0;
+  }
+  
+  .cocktail-app_display-list-item {
+    padding: 8px 0;
+  }
+
+  @media screen and (max-width: 767px) {
+    .cocktail-app_display-list {
+        -moz-column-count: 1;
+        column-count: 1;
+      }
+  }

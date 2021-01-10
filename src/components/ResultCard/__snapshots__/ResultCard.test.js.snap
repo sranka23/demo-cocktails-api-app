@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ResultCard /> should match snapshot of the component 1`] = `
+<DocumentFragment>
+  <div
+    class="cocktail-app_result-item"
+  >
+    <div
+      class="cocktail-app_result-item_media"
+    >
+      <img
+        alt="Karsk"
+        src="link_to_img"
+      />
+    </div>
+    <div
+      class="cocktail-app_result-item_content"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5"
+      >
+        Karsk
+      </h5>
+      <h6
+        class="MuiTypography-root cocktail-app_result-item_content_desc MuiTypography-subtitle1 MuiTypography-colorTextSecondary"
+      >
+        Norwegian speciality.
+      </h6>
+      <div
+        class="MuiButtonBase-root MuiChip-root cocktail-app_result-item_content_pills cocktail-app_result-item_content_pills-category MuiChip-outlined MuiChip-clickable"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          Category : Ordinary Drink
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <div
+        class="MuiButtonBase-root MuiChip-root cocktail-app_result-item_content_pills MuiChip-clickable"
+        role="button"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          Drink type: Non_Alcholic
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text cocktail-app_result-item_drink-info"
+        style="display: inline-block;"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          View Details
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

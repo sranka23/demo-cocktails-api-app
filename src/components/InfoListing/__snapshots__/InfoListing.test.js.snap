@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InfoListing /> should match snapshot of the Categories  List component 1`] = `
+<DocumentFragment>
+  <div
+    class="cocktail-app_component"
+  >
+    <h4
+      class="MuiTypography-root MuiTypography-h4"
+    >
+      Categories
+    </h4>
+    <ul
+      class="cocktail-app_display-list"
+    >
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Ordinary Drink"
+        >
+          Ordinary Drink
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Cocktail"
+        >
+          Cocktail
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Milk %2F Float %2F Shake"
+        >
+          Milk / Float / Shake
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Other%2FUnknown"
+        >
+          Other/Unknown
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Cocoa"
+        >
+          Cocoa
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Shot"
+        >
+          Shot
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Coffee %2F Tea"
+        >
+          Coffee / Tea
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Homemade Liqueur"
+        >
+          Homemade Liqueur
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Punch %2F Party Drink"
+        >
+          Punch / Party Drink
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Beer"
+        >
+          Beer
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/category/Soft Drink %2F Soda"
+        >
+          Soft Drink / Soda
+        </a>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<InfoListing /> should match snapshot of the Ingredients List component 1`] = `
+<DocumentFragment>
+  <div
+    class="cocktail-app_component"
+  >
+    <h4
+      class="MuiTypography-root MuiTypography-h4"
+    >
+      Ingredients
+    </h4>
+    <ul
+      class="cocktail-app_display-list"
+    >
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Light rum"
+        >
+          Light rum
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Applejack"
+        >
+          Applejack
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Gin"
+        >
+          Gin
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Dark rum"
+        >
+          Dark rum
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Sweet Vermouth"
+        >
+          Sweet Vermouth
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Strawberry schnapps"
+        >
+          Strawberry schnapps
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Scotch"
+        >
+          Scotch
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Apricot brandy"
+        >
+          Apricot brandy
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Triple sec"
+        >
+          Triple sec
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Southern Comfort"
+        >
+          Southern Comfort
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Orange bitters"
+        >
+          Orange bitters
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Brandy"
+        >
+          Brandy
+        </a>
+      </li>
+      <li
+        class="cocktail-app_display-list-item"
+      >
+        <a
+          href="/ingredient/Lemon vodka"
+        >
+          Lemon vodka
+        </a>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
