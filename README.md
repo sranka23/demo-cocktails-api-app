@@ -40,5 +40,8 @@ Your app is ready to be deployed!
 
 
 ## Roadmap
+### UX and UI
 - The APIs will be used to create dynamic filterable UI which needs exporing multiple APIs with architecture.
 - The page strucutre as of now are a little independent and nature and next step is to build right breadcrumbs and navigation to connect them meaningfully. 
+### Testing
+- Add end to end automation test cases using Testcafe (preferable) or wdio. 
